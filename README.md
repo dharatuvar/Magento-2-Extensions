@@ -48,7 +48,7 @@
 * [Magento 2 eWay Recurring & Subscriptions](https://meetanshi.com/magento-2-eway-recurring-and-subscriptions.html)
 * [Magento 2 Extra Fee](https://meetanshi.com/magento-2-extra-fee.html)
 * [Magento 2 Facebook Chat](https://meetanshi.com/magento-2-facebook-chat.html)
-* [Magento 2 Facebook Store Integration](hhttps://meetanshi.com/magento-2-facebook-store-integration.html)
+* [Magento 2 Facebook Store Integration](https://meetanshi.com/magento-2-facebook-store-integration.html)
 * [Magento 2 First Data Payeezy Payment](https://meetanshi.com/magento-2-first-data-payeezy-payment.html)
 * [Magento 2 Force Login](https://meetanshi.com/magento-2-force-login.html)
 * [Magento 2 Free Shipping Bar](https://meetanshi.com/magento-2-free-shipping-bar.html)
